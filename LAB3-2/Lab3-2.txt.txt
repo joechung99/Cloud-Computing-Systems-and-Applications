@@ -1,0 +1,4 @@
+
+#在windows10下使用python3.5版 執行Lab3-2.py
+
+python Lab3-2.py
